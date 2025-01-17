@@ -7,8 +7,4 @@
     <RootNamespace>Excersise_3</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="9.0.1" />
-  </ItemGroup>
-
 </Project>
